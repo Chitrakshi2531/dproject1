@@ -3,4 +3,8 @@ hello
 
 changes form github
 
+<<<<<<< HEAD
 branch 1
+=======
+git branch 1
+>>>>>>> branch1
